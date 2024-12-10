@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I am a fresh PhD graduate in Biomedical Engineering from Monash University, currently looking for postdoctoral research positions in the field of wearable, rehabilitative, or assistive tech! Testing here!
 
-In my free time, you can catch me tinkering with my [🛠️ personal projects](http://reddit.com), on the field chasing plastic discs with [🔥 Zealous Ultimate](https://www.instagram.com/zealousultimate/), or travelling to explore more of the vibrant world we live in.
+In my free time, you can catch me tinkering with my [🛠️ personal projects](https://jeshaiahkhor.github.io/projects/), on the field chasing plastic discs with [🔥 Zealous Ultimate](https://www.instagram.com/zealousultimate/), or travelling to explore more of the vibrant world we live in.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
