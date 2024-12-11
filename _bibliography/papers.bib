@@ -1,115 +1,67 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+Buttons:
+- `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the _data folder and adding entries that match.
+- `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
+- `additional_info`: Adds a "More Information" button that expands a hidden text field when clicked to show the additional information text
+- `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
+- `annotation`: Adds an "Annotation" button that expands a hidden text field when clicked to show the annotation text
+- `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
+- `bibtex_show`: Adds a "Bib" button that expands a hidden text field with the full bibliography entry
+- `blog`: Adds a "Blog" button redirecting to the specified link
+- `code`: Adds a "Code" button redirecting to the specified link
+- `html`: Inserts an "HTML" button redirecting to the user-specified link
+- `pdf`: Adds a "PDF" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `preview`: Adds a "Preview" button
+- `selected`: Set to `true` to show on the main page
+- `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `supp`: Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `video`: Adds a "Video" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/video/ directory)
+- `website`: Adds a "Website" button redirecting to the specified link
+- `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@article{khor2021,
+  title = {The Effects of Mechanical Noise Bandwidth on Balance across Flat and Compliant Surfaces},
+  author = {Khor, Jeshaiah Zhen Syuen and Gopalai, Alpha Agape and Lan, Boon Leong and Gouwanda, Darwin and Ahmad, Siti Anom},
+  year = {2021},
+  month = jun,
+  journal = {Scientific Reports},
+  volume = {11},
+  number = {1},
+  pages = {12276},
+  publisher = {Nature Publishing Group},
+  issn = {2045-2322},
+  doi = {10.1038/s41598-021-91422-w},
+  urldate = {2021-07-26},
+  abstract = {Although the application of sub-sensory mechanical noise to the soles of the feet has been shown to enhance balance, there has been no study on how the bandwidth of the noise affects balance. Here, we report a single-blind randomized controlled study on the effects of a narrow and wide bandwidth mechanical noise on healthy young subjects' sway during quiet standing on firm and compliant surfaces. For the firm surface, there was no improvement in balance for both bandwidths---this may be because the young subjects could already balance near-optimally or optimally on the surface by themselves. For the compliant surface, balance improved with the introduction of wide but not narrow bandwidth noise, and balance is improved for wide compared to narrow bandwidth noise. This could be explained using a simple model, which suggests that adding noise to a sub-threshold pressure stimulus results in markedly different frequency of nerve impulse transmitted to the brain for the narrow and wide bandwidth noise---the frequency is negligible for the former but significantly higher for the latter. Our results suggest that if a person's standing balance is not optimal (for example, due to aging), it could be improved by applying a wide bandwidth noise to the feet.},
+  copyright = {2021 The Author(s)},
+  langid = {english},
+  annotation = {Bandiera\_abtest: a\\
+Cc\_license\_type: cc\_by\\
+Cg\_type: Nature Research Journals\\
+Primary\_atype: Research\\
+Subject\_term: Biomedical engineering;Quality of life\\
+Subject\_term\_id: biomedical-engineering;quality-of-life},
+  file = {C\:\\Users\\jesha\\Zotero\\storage\\8JCLAKEM\\Khor et al. - 2021 - The effects of mechanical noise bandwidth on balan.pdf;C\:\\Users\\jesha\\Zotero\\storage\\PI2XGRHV\\s41598-021-91422-w.html},
+  abbr = {Wearable Tech.},
+  bibtex_show = true,
+  selected = true
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+@inproceedings{khor2022,
+  title = {Mechanical {{Noise Affects Rambling}} and {{Trembling Trajectories During Quiet Standing}}},
+  booktitle = {2022 {{IEEE-EMBS Conference}} on {{Biomedical Engineering}} and {{Sciences}} ({{IECBES}})},
+  author = {Khor, Jeshaiah Z.S. and Gopalai, Alpha A. and Lan, Boon L. and Ahmad, Siti A. and Gouwanda, Darwin},
+  year = {2022},
+  month = dec,
+  pages = {252--257},
+  doi = {10.1109/IECBES54088.2022.10079555},
+  urldate = {2023-12-15},
+  abstract = {Falling is a serious worldwide public health issue, leading to heavy interest in the development of interventions to reduce fall risk. Mechanical noise has been shown to be a promising candidate in this regard - the application of mechanical noise to the foot sole has been shown to improve the sensitivity of the foot sole to pressure stimuli, thereby improving postural control and reducing fall risk. However, the mechanism by which mechanical noise affects the neural drive responsible for postural control is yet unknown. A single-blind randomized controlled study was conducted on the bodily sway of 19 healthy young subjects during quiet standing balance on a firm and compliant surface with and without introduced mechanical noise. The trajectory of the center of pressure (COP) of the subjects during balance was decomposed into its constituent rambling and trembling components, which reflected supraspinal and reflexive neural control respectively. On the compliant surface, the introduction of mechanical noise significantly reduced sway compared to control in the overall COP trajectory as well as the rambling and trembling trajectories. These findings indicate that mechanical noise can improve neural control of balance through both the supraspinal and reflexive neural pathways, leading to tighter bodily control and reduced bodily sway. These findings are particularly promising for the development of targeted noise-based assistive devices to reduce fall risk in demographics with neurological issues impairing motor control and balance.Clinical Relevance-- This study demonstrates that mechanical vibratory noise introduced to the foot sole reduces both rambling and trembling of the COP during postural control, thus improving balance, with a wider bandwidth of mechanical noise having a larger effect. This has practical applications in the development of noise-based wearable devices for fall risk reduction.},
+  file = {C\:\\Users\\jesha\\Zotero\\storage\\MJ9CED3U\\Khor et al. - 2022 - Mechanical Noise Affects Rambling and Trembling Tr.pdf;C\:\\Users\\jesha\\Zotero\\storage\\C8H8P5RY\\10079555.html},
+  abbr = {Wearable Tech.},
+  bibtex_show = true,
+  selected = true
 }
