@@ -3,7 +3,7 @@
     "name": "Jeshaiah Khor Zhen Syuen",
     "label": "Scientist",
     "image": "",
-    "email": "jeshaiahkhor@gmail.",
+    "email": "jeshaiahkhor@gmail.com",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
@@ -22,7 +22,7 @@
       }
     ]
   },
-  "research": [
+  "work": [
     {
       "name": "Monash University Malaysia",
       "position": "Sessional Teaching Staff (Engineering)",
@@ -33,10 +33,10 @@
       "highlights": ["Relativity"]
     }
   ],
-  "teaching": [
+  "research": [
     {
       "name": "Monash University Malaysia",
-      "position": "Sessional Teaching Staff (Engineering)",
+      "position": "Graduate Student Researcher",
       "url": "https://monash.edu.my",
       "startDate": "2021-03",
       "endDate": "2024-12",
