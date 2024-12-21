@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 👨🏻‍🔬 Biomedical Engineering Research & Development | 🥏 Ultimate Frisbee Athlete
+subtitle: 🔬 Biomedical Engineering Research & Development | 🥏 Ultimate Frisbee Athlete
 
 profile:
   align: right
@@ -26,9 +26,3 @@ While my PhD is in Biomedical Engineering, I am interested in a wide range of ot
 I am a recent PhD graduate in Biomedical Engineering from Monash University, currently looking to transition from the tertiary education sector into industry to further develop my technical skills and contribute to meaningful projects that create positive impacts through the private sector.
 
 In my free time, you can catch me tinkering with my [🛠️ personal projects](https://jeshaiahkhor.github.io/projects/), on the field chasing plastic discs with [🔥 Zealous Ultimate](https://www.instagram.com/zealousultimate/), or travelling to explore more of the vibrant world we live in.
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
