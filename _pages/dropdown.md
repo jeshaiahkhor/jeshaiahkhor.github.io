@@ -8,8 +8,8 @@ children:
   - title: repositories
     permalink: /repositories/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: profiles
+    permalink: /profiles/
   - title: divider
   - title: blog
     permalink: /blog/

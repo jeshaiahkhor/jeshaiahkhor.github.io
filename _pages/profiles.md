@@ -2,8 +2,8 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
-nav: true
+description: Here are some people in my professional/social network with their own personal webpages - check them out below!
+nav: false
 nav_order: 7
 
 profiles:
