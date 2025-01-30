@@ -14,9 +14,9 @@ profiles:
     content: about_shan.md
     image_circular: false # crops the image to make it circular
     more_info: 
-  - align: left
-    image: char_dp.jpg
-    content: about_char.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
+#  - align: left
+#    image: char_dp.jpg
+#    content: about_char.md
+#    image_circular: false # crops the image to make it circular
+#    more_info: 
 ---
