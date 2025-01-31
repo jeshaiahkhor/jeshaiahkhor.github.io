@@ -4,9 +4,13 @@ title: Data Analytics for Ultimate Frisbee
 description: Data analytics exist in many sports (e.g. soccer, basketball, etc.) - why not ultimate frisbee too?
 img: assets/img/frisbee_project.jpg
 importance: 1
-category: work
+category: fun
 related_publications: false
 ---
+
+# Background
+Ultimate frisbee is a relatively new sport, but one of the fastest growing in 
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
