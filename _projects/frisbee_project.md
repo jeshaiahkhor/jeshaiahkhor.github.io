@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Data Analytics for Ultimate Frisbee
+description: Data analytics exist in many sports (e.g. soccer, basketball, etc.) - why not ultimate frisbee too?
+img: assets/img/frisbee_project.jpg
 importance: 1
-category: data
-related_publications: true
+category: work
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
