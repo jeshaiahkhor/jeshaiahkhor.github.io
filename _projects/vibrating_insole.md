@@ -5,7 +5,7 @@ description: Data analytics exist in many sports (e.g. soccer, basketball, etc.)
 img: assets/img/frisbee_project.jpg
 importance: 1
 category: work
-related_publications: khor2021
+related_publications: true
 ---
 
 ## Background
@@ -23,3 +23,4 @@ However, a few potential issues can arise from this. Firstly, as Ultimate is a h
 
 ## Project goals
 Test....
+{% cite khor2021, khor2022, khor2022a %}
