@@ -5,7 +5,7 @@ description: Data analytics exist in many sports (e.g. soccer, basketball, etc.)
 img: assets/img/frisbee_project.jpg
 importance: 1
 category: work
-related_publications: false
+related_publications: khor2021
 ---
 
 ## Background
