@@ -4,7 +4,7 @@ title: ✅ A Vibrating Insole for Balance Enhancement
 description: Data analytics exist in many sports (e.g. soccer, basketball, etc.) - why not ultimate frisbee too?
 img: assets/img/frisbee_project.jpg
 importance: 1
-category: extra
+category: work
 related_publications: false
 ---
 
