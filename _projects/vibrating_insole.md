@@ -23,4 +23,4 @@ However, a few potential issues can arise from this. Firstly, as Ultimate is a h
 
 ## Project goals
 Test....
-{% cite khor2021, khor2022, khor2022a %}
+{% cite khor2021 %}
