@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ✅ A Vibrating Insole for Balance Enhancement
-description: Data analytics exist in many sports (e.g. soccer, basketball, etc.) - why not ultimate frisbee too?
+description: The development and testing of a novel vibration-based medical insole device that improves balance.
 img: assets/img/frisbee_project.jpg
 importance: 1
 category: work
