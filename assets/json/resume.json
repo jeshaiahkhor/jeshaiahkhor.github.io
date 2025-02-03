@@ -6,7 +6,7 @@
     "email": "jeshaiahkhor@gmail.com",
     "phone": "(+60)17-5999-883",
     "url": "",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "🔬 Biomedical/Mechatronics Engineering Research & Development | 🥏 Ultimate Frisbee Athlete",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -31,8 +31,8 @@
       "endDate": "2023-03",
       "summary": "Executed a multi-year interdisciplinary research project developing a novel prototype noise-based vibrating insole for balance improvement. The insole led to a 4-18% improvement in balance among subjects during human experimental trials.",
       "highlights": [
-                    "Designed, constructed, and tested the mechanical, electronic, and software components of the novel noise-based vibrating insole, ensuring adaptability to various foot sizes and sensitivities.",
-                    "Ran randomized controlled human trials and processed biomechanical & biosignal data to assess the insole's effects on postural sway dynamics and lower limb muscle activation patterns during quiet standing, resulting in novel discoveries into the relationship between mechanical noise and postural control during balance.",
+                    "Designed, constructed, and tested the mechanical, electronic, and software components of the insole, accounting for various foot sizes and sensitivities.",
+                    "By conducting randomized controlled human trials and processing biomechanical & biosignal data, made novel discoveries on relationship between mechanical noise, postural sway dynamics and lower limb muscle activation patterns.",
                     "Published findings in a Q1 journal (Scientific Reports) and presented to academic, industrial, and general audiences at multiple conferences."
                     ]
     },
@@ -44,11 +44,11 @@
       "endDate": "2024-03",
       "summary": "Led or otherwise contributed to research efforts on a variety of projects, listed in reverse order below.",
       "highlights": [
-                    "Mobile Robot Design (Jan 2024 - Jun 2024): Spearheaded the development a client-server mobile robot for IoT teaching purposes, outperforming the old commercial robot it replaced.",
-                    "Vascular Anastomosis Device (Aug 2022 - Nov 2022): Prototyped a proof-of-concept 3D-printed medical implant for vessel-graft coupling in vascular anastomosis.",
-                    "Bio-Energy Coffee Physiological Effects (Sep 2021 – Sep 2022): Led a phase of a research project investigating the effects of a coffee additive on heart rate during strenuous exercise.",
-                    "Automation of Textile Manufacturing for Industry 4.0 (May 2017 – Jul 2017): Contributed to a published nation-wide industrial handbook guiding Malaysian textile manufacturers to upgrade to Industry 4.0 standards.",
-                    "Quadcopter Soft Robotics Gripper (Dec 2016 - Jan 2017): Assisted in the development of a soft robotics gripper for irregular-shape gripping for quadcopter applications."
+                    "Mobile Robot Design: \nSpearheaded the development a client-server mobile robot for IoT teaching purposes, outperforming the old commercial robot it replaced.",
+                    "Vascular Anastomosis Device: \nPrototyped a proof-of-concept 3D-printed medical implant for vessel-graft coupling in vascular anastomosis.",
+                    "Bio-Energy Coffee Physiological Effects: \nLed a phase of a research project investigating the effects of a coffee additive on heart rate during strenuous exercise.",
+                    "Automation of Textile Manufacturing for Industry 4.0: \nContributed to a published nation-wide industrial handbook guiding Malaysian textile manufacturers to upgrade to Industry 4.0 standards.",
+                    "Quadcopter Soft Robotics Gripper: \nAssisted in the development of a soft robotics gripper for irregular-shape gripping for quadcopter applications."
                     ]
     }
   ],
@@ -59,35 +59,34 @@
       "url": "https://monash.edu.my",
       "startDate": "2020-03",
       "endDate": "2024-12",
-      "summary": "Taught seven different undergraduate mechatronics engineering courses, maintaining student satisfaction scores of >90% throughout all classes taught.",
+      "summary": "Taught seven different undergraduate mechatronics engineering courses (more info in the teaching page), maintaining student satisfaction scores of >90% throughout all classes taught.",
       "highlights": [
-                    "Units taught: Artificial Intelligence for Engineers (Year 4, Elective), Mechatronics and Manufacturing (Year 4, Core), Introduction to Systems Engineering (Year 2, Core), Thermo-fluids and Power Systems (Year 4, Core), Computing for Engineers (Year 1, Core), Engineering Numerical Analysis (Year 1, Core), Engineering Mathematics (Year 1, Core)"
+                    "Communicated complex technical concepts (including systems engineering, PLC programming, MATLAB, robotics, thermodynamics, manufacturing processes, and more) to students from a diverse range of backgrounds."
+                    "Managed relationships up, down, and across - with unit coordinators and lead lecturers on course direction, guiding students to meet learning objectives, and coordinating with other teaching staff and laboratory technicians on teaching logistics."
+                    "Prepared and managed teaching materials and documentation (e.g. syllabi, learning objective matches, assessment details, audit materials) for both students and fellow teaching staff."
                     ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Monash University",
+      "location": "Selangor, Malaysia",
+      "url": "https://www.monash.edu.my",
+      "area": "Biomedical Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2017-08-01",
+      "endDate": "2023-03-11",
+      "courses": ["Thesis title: Quantifying the effects of mechanical noise bandwidth on postural control in a noise-based insole."]
+    },
+    {
+      "institution": "Monash University",
+      "location": "Selangor, Malaysia",
+      "url": "https://www.monash.edu.my",
+      "area": "Mechatronics Engineering",
+      "studyType": "B. Eng. (Hons)",
+      "startDate": "2013-03-01",
+      "endDate": "2017-03-01",
+      "courses": ["CGPA: 3.612 | GPA: 3.125"]
     }
   ],
   "awards": [
@@ -145,88 +144,76 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "The effects of mechanical noise bandwidth on balance across flat and compliant surfaces.",
+      "publisher": "Scientific Reports",
+      "releaseDate": "2021-06-10",
+      "url": "https://doi.org/10.1038/s41598-021-91422-w",
+      "summary": "A study on the varying levels of balance enhancement observed when mechanical noise with different bandwidths is introduced to the foot sole. Larger bandwidths of noise induce more improvement in balance."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Mechanical Noise Affects Rambling and Trembling Trajectories During Quiet Standing.",
+      "publisher": " 2022 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)",
+      "releaseDate": "2022-12-09",
+      "url": "https://doi.org/10.1109/iecbes54088.2022.10079555",
+      "summary": "Experimental results demonstrating that mechanical noise introduced to the foot sole improves both supraspinal and reflexive control of balance during postural control."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "(Under submission) Motor Control Enhancements by Sub-Threshold Mechanical Noise Applied to Foot Soles During Quiet Standing.",
+      "publisher": "Journal of NeuroEngineering and Rehabilitation",
+      "releaseDate": "PENDING",
+      "url": "",
+      "summary": "Randomized controlled human trials showing that mechanical noise introduced to the foot sole improves the efficiency of motor control in the relevant calf muscles to effectuate improved balance."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "MATLAB",
+        "LaTeX",
+        "Siemens PLC (Ladder Logic)",
+      ],
+      "name": "Frameworks",
+      "level": "Master",
+      "icon": "",
+      "keywords": [
+        "Linux",
+        "Git/GitHub/GitLab",
+        "NumPy, SciPy, Pandas, Matplotlib",
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Malay",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "Hokkien",
+      "fluency": "Basic (spoken)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Engineering",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Medical device development",
+        "Mobile robotics",
+        "Articulated robotics",
+        "Automation technologies",
+        "Data analytics",
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
 }

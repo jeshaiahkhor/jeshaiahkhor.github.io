@@ -20,7 +20,7 @@ Hi, I’m Jesh, a biomedical and mechatronics engineer with a passion for the re
 
 As the youngest doctoral graduate of Monash University Malaysia, I hold a PhD in Biomedical Engineering and a Bachelor's in Mechatronics Engineering from Monash University. During my PhD, I developed a novel wearable noise-based vibrating insole device to enhance human balance, tested on humans to improve balance by 4-18%. 
 
-Besides my doctoral work, I have participated or led research efforts on a wide variety of projects throughout research career thus far across three main fields: **medical devices**, **robotics systems**, and **automation technologies**. A common thread between the three fields is their interdisciplinary nature - I particularly enjoy working across many different fields to expand my knowledge base and allow for more holistic approaches to engineering design.
+Besides my doctoral work, I have participated or led research efforts on a wide variety of projects throughout my research career thus far. These projects span three main fields: **medical devices**, **robotics systems**, and **automation technologies**. A common thread between the three fields is their interdisciplinary nature - I particularly enjoy working across many different fields to expand my knowledge base and allow for more holistic approaches to engineering design.
 
 In my free time, you can catch me tinkering with my [🛠️ personal projects](https://jeshaiahkhor.github.io/projects/), on the field chasing plastic discs with [🔥 Zealous Ultimate](https://www.instagram.com/zealousultimate/), or travelling to explore more of the vibrant world we live in.
 
