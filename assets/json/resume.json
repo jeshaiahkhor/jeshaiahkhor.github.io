@@ -44,11 +44,11 @@
       "endDate": "2024-03",
       "summary": "Led or otherwise contributed to research efforts on a variety of projects, listed in reverse order below.",
       "highlights": [
-                    "Mobile Robot Design: \nSpearheaded the development a client-server mobile robot for IoT teaching purposes, outperforming the old commercial robot it replaced.",
-                    "Vascular Anastomosis Device: \nPrototyped a proof-of-concept 3D-printed medical implant for vessel-graft coupling in vascular anastomosis.",
-                    "Bio-Energy Coffee Physiological Effects: \nLed a phase of a research project investigating the effects of a coffee additive on heart rate during strenuous exercise.",
-                    "Automation of Textile Manufacturing for Industry 4.0: \nContributed to a published nation-wide industrial handbook guiding Malaysian textile manufacturers to upgrade to Industry 4.0 standards.",
-                    "Quadcopter Soft Robotics Gripper: \nAssisted in the development of a soft robotics gripper for irregular-shape gripping for quadcopter applications."
+                    "Mobile Robot Design: Spearheaded the development a client-server mobile robot for IoT teaching purposes, outperforming the old commercial robot it replaced.",
+                    "Vascular Anastomosis Device: Prototyped a proof-of-concept 3D-printed medical implant for vessel-graft coupling in vascular anastomosis.",
+                    "Bio-Energy Coffee Physiological Effects: Led a phase of a research project investigating the effects of a coffee additive on heart rate during strenuous exercise.",
+                    "Automation of Textile Manufacturing for Industry 4.0: Contributed to a published nation-wide industrial handbook guiding Malaysian textile manufacturers to upgrade to Industry 4.0 standards.",
+                    "Quadcopter Soft Robotics Gripper: Assisted in the development of a soft robotics gripper for irregular-shape gripping for quadcopter applications."
                     ]
     }
   ],
@@ -61,8 +61,21 @@
       "endDate": "2024-12",
       "summary": "Taught seven different undergraduate mechatronics engineering courses (more info in the teaching page), maintaining student satisfaction scores of >90% throughout all classes taught.",
       "highlights": [
-                    "Communicated complex technical concepts (including systems engineering, PLC programming, MATLAB, robotics, thermodynamics, manufacturing processes, and more) to students from a diverse range of backgrounds."
-                    "Managed relationships up, down, and across - with unit coordinators and lead lecturers on course direction, guiding students to meet learning objectives, and coordinating with other teaching staff and laboratory technicians on teaching logistics."
+                    "Communicated complex technical concepts (including systems engineering, PLC programming, MATLAB, robotics, thermodynamics, manufacturing processes, and more) to students from a diverse range of backgrounds.",
+                    "Managed relationships up, down, and across - with unit coordinators and lead lecturers on course direction, guiding students to meet learning objectives, and coordinating with other teaching staff and laboratory technicians on teaching logistics.",
+                    "Prepared and managed teaching materials and documentation (e.g. syllabi, learning objective matches, assessment details, audit materials) for both students and fellow teaching staff."
+                    ]
+    },
+    {
+      "name": "Monash University Malaysia",
+      "position": "Sessional Teaching Staff (Engineering)",
+      "url": "https://monash.edu.my",
+      "startDate": "2020-03",
+      "endDate": "2024-12",
+      "summary": "Taught seven different undergraduate mechatronics engineering courses (more info in the teaching page), maintaining student satisfaction scores of >90% throughout all classes taught.",
+      "highlights": [
+                    "Communicated complex technical concepts (including systems engineering, PLC programming, MATLAB, robotics, thermodynamics, manufacturing processes, and more) to students from a diverse range of backgrounds.",
+                    "Managed relationships up, down, and across - with unit coordinators and lead lecturers on course direction, guiding students to meet learning objectives, and coordinating with other teaching staff and laboratory technicians on teaching logistics.",
                     "Prepared and managed teaching materials and documentation (e.g. syllabi, learning objective matches, assessment details, audit materials) for both students and fellow teaching staff."
                     ]
     }
