@@ -11,7 +11,7 @@ horizontal: false
 
 | **Project** | **Tags**                                               | **Status** |
 |-------------|--------------------------------------------------------|------------|
-| Test        | <mark style="background-color: light-blue">test</mark> | test       |
+| Test        | <mark style="background-color: #ADD8E6!important">test</mark> | test       |
 |             |                                                        |            |
 |             |                                                        |            |
  
