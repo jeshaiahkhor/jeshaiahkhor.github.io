@@ -9,5 +9,9 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-Coming (very) soon!
-
+| **Project** | **Tags**                                               | **Status** |
+|-------------|--------------------------------------------------------|------------|
+| Test        | <mark style="background-color: light-blue">test</mark> | test       |
+|             |                                                        |            |
+|             |                                                        |            |
+ 
