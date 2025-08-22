@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 🔬 Biomedical/Mechatronics Engineering Research & Development <br> | 🥏 Ultimate Frisbee Athlete
+subtitle: Making things (and people) smarter every day!
 
 profile:
   align: right
